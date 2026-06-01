@@ -1,0 +1,22 @@
+GET http://localhost:8080/health
+
+###
+
+PUT http://localhost:8080/kv/name
+Content-Type: application/json
+
+{
+  "value": "Pavel"
+}
+
+###
+
+GET http://localhost:8080/kv/name
+
+###
+
+GET http://localhost:8080/kv
+
+###
+
+DELETE http://localhost:8080/kv/name
