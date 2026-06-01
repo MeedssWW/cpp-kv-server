@@ -1,0 +1,12 @@
+build/
+out/
+.cache/
+.vs/
+.vscode/
+*.user
+*.suo
+*.obj
+*.o
+*.exe
+*.log
+data/
