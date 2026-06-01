@@ -1,6 +1,6 @@
 # C++ Key-Value Server
 
-[![C++ CI](https://github.com/MeedssWW/cpp-kv-server/actions/workflows/cpp-ci.yml/badge.svg)](https://github.com/MeedssWW/cpp-kv-server/actions/workflows/cpp-ci.yml)
+[![C++ CI](https://github.com/MeedssWW/cpp-kv-server/actions/workflows/cpp-ci.yml/badge.svg?branch=main)](https://github.com/MeedssWW/cpp-kv-server/actions/workflows/cpp-ci.yml)
 
 C++ Key-Value Server is a small REST service for storing string values by key. It is built as a portfolio-oriented backend project: C++20, CMake, HTTP API, JSON persistence, tests, CI, and Docker.
 
